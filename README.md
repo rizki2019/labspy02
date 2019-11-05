@@ -1,4 +1,4 @@
-# <p align="center">.::Uraian Langkah::. </p></font>
+# <p align="center">.::Uraian Langkah::. </p>
 
 1.Masukan nilai a</br>
 2.Masukan nilai b</br>
